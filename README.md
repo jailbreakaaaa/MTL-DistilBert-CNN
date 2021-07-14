@@ -5,4 +5,6 @@
   
 ### passwd:wyzl  
   
-### Please place the dataset in the data folder  
+### Please place the dataset in the data folder
+# Notice
+### please install ranger and torch == 1.7.1
